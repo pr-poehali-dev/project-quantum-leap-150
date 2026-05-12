@@ -20,13 +20,14 @@ export default function Hero() {
         className="absolute inset-0 w-full h-full flex items-center justify-center"
       >
         <img
-          src="https://cdn.poehali.dev/projects/741a384e-7334-4a38-b0e5-a037d7365f18/files/9e909d64-6acb-47fe-ac35-8ab9ad74bb84.jpg"
+          src="https://cdn.poehali.dev/projects/741a384e-7334-4a38-b0e5-a037d7365f18/bucket/map-no-bg.png"
           alt="Карта Кольского полуострова"
           className="object-contain"
           style={{
             width: "84%",
             height: "84%",
-            opacity: 0.35,
+            opacity: 0.18,
+            filter: "sepia(1) brightness(0.6) contrast(1.4) saturate(0.8)",
             mixBlendMode: "multiply",
           }}
         />
