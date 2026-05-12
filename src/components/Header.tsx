@@ -12,13 +12,13 @@ export default function Header({ className }: HeaderProps) {
         <nav className="flex gap-8">
           <a
             href="#tours"
-            className="text-white hover:text-neutral-400 transition-colors duration-300 uppercase text-base font-bold tracking-[0.2em]"
+            className="text-white hover:text-neutral-400 transition-colors duration-300 uppercase text-base font-bold tracking-[0.4em]"
           >
             Туры
           </a>
           <a
             href="#contact"
-            className="text-white hover:text-neutral-400 transition-colors duration-300 uppercase text-base font-bold tracking-[0.2em]"
+            className="text-white hover:text-neutral-400 transition-colors duration-300 uppercase text-base font-bold tracking-[0.4em]"
           >
             Записаться
           </a>
