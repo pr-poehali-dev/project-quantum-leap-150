@@ -27,7 +27,7 @@ export default function Hero() {
             width: "84%",
             height: "84%",
             opacity: 0.18,
-            filter: "sepia(1) brightness(0.6) contrast(1.4) saturate(0.8)",
+            filter: "sepia(1) brightness(0.4) contrast(1.6) saturate(2) hue-rotate(-20deg)",
             mixBlendMode: "multiply",
           }}
         />
