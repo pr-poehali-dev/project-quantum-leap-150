@@ -9,7 +9,7 @@ export default function Header({ className }: HeaderProps) {
         <div className="text-[28px] uppercase tracking-wide font-bold">
           <span className="text-white">Arctic</span><span style={{ color: "#e53e3e" }}>-Go</span>
         </div>
-        <nav className="flex gap-8">
+        <nav className="flex gap-16">
           <a
             href="#tours"
             className="text-white hover:text-neutral-400 transition-colors duration-300 uppercase text-base font-bold tracking-[0.4em]"
