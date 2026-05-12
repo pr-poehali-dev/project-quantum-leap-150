@@ -6,8 +6,8 @@ export default function Header({ className }: HeaderProps) {
   return (
     <header className={`absolute top-0 left-0 right-0 z-10 p-6 ${className ?? ""}`}>
       <div className="flex justify-between items-center">
-        <div className="text-sm uppercase tracking-wide font-bold">
-          <span style={{ color: "#e53e3e" }}>Arctic</span><span className="text-white">-Go</span>
+        <div className="text-[28px] uppercase tracking-wide font-bold">
+          <span className="text-white">Arctic</span><span className="text-black">-Go</span>
         </div>
         <nav className="flex gap-8">
           <a
