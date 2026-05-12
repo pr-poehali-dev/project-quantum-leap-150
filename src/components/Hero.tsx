@@ -34,7 +34,7 @@ export default function Hero() {
       </motion.div>
 
       <div className="relative z-10 text-center text-white">
-        <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight mb-6">
+        <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-6">
           КОЛЬСКИЙ ПОЛУОСТРОВ
         </h1>
         <p className="text-lg md:text-xl max-w-2xl mx-auto px-6 opacity-90">
