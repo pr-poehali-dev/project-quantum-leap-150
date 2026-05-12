@@ -20,7 +20,7 @@ export default function Hero() {
         className="absolute inset-0 w-full h-full flex items-center justify-center"
       >
         <img
-          src="https://cdn.poehali.dev/projects/741a384e-7334-4a38-b0e5-a037d7365f18/bucket/3d8e497a-a706-4c2f-96af-fbdfd1fc6ace.png"
+          src="https://cdn.poehali.dev/projects/741a384e-7334-4a38-b0e5-a037d7365f18/bucket/map-no-bg.png"
           alt="Карта Кольского полуострова"
           className="w-full h-full object-contain opacity-20"
         />

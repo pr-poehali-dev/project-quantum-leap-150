@@ -1,0 +1,1 @@
+{"tests": [{"name": "Remove cyan background", "method": "GET", "path": "/", "expectedStatus": 200, "expectedBody": {"url": "string"}, "bodyMatcher": "partial"}]}
