@@ -13,15 +13,16 @@ export default function Hero() {
     <div
       ref={container}
       className="relative flex items-center justify-center h-screen overflow-hidden"
+      style={{ backgroundColor: "#7a6a5a" }}
     >
       <motion.div
         style={{ y }}
-        className="absolute inset-0 w-full h-full"
+        className="absolute inset-0 w-full h-full flex items-center justify-center"
       >
         <img
-          src="https://cdn.poehali.dev/projects/741a384e-7334-4a38-b0e5-a037d7365f18/files/b5a13315-db1f-4833-a497-e576485e1352.jpg"
-          alt="Карта Кольского полуострова крупным планом"
-          className="w-full h-full object-cover"
+          src="https://cdn.poehali.dev/projects/741a384e-7334-4a38-b0e5-a037d7365f18/bucket/3d8e497a-a706-4c2f-96af-fbdfd1fc6ace.png"
+          alt="Карта Кольского полуострова"
+          className="w-full h-full object-contain opacity-20"
         />
       </motion.div>
 
