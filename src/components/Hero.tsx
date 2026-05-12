@@ -19,8 +19,8 @@ export default function Hero() {
         className="absolute inset-0 w-full h-full"
       >
         <img
-          src="https://cdn.poehali.dev/projects/741a384e-7334-4a38-b0e5-a037d7365f18/files/0de8b2a0-851b-4ffe-a76f-947d8ac2198f.jpg"
-          alt="Кольский полуостров — тундра и северное сияние"
+          src="https://cdn.poehali.dev/projects/741a384e-7334-4a38-b0e5-a037d7365f18/files/1f83c93c-c314-49f7-93cb-0b481e4f0498.jpg"
+          alt="Кольский полуостров — панорама тундры и гор Хибины"
           className="w-full h-full object-cover"
         />
       </motion.div>
