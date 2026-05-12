@@ -38,7 +38,7 @@ export default function Hero() {
           КОЛЬСКИЙ ПОЛУОСТРОВ
         </h1>
         <p className="text-lg md:text-xl max-w-2xl mx-auto px-6 opacity-90">
-          Авторские экскурсии и многодневные туры по дикой природе Кольского полуострова
+          Северное сияние над тундрой, дикие реки и древние сопки — откройте край, где природа говорит в полную силу
         </p>
         <div className="mt-10 flex flex-col sm:flex-row gap-4 justify-center">
           <a
