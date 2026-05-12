@@ -22,7 +22,14 @@ export default function Hero() {
         <img
           src="https://cdn.poehali.dev/projects/741a384e-7334-4a38-b0e5-a037d7365f18/bucket/map-no-bg.png"
           alt="Карта Кольского полуострова"
-          className="w-3/4 h-3/4 object-contain opacity-10"
+          className="object-contain"
+          style={{
+            width: "84%",
+            height: "84%",
+            opacity: 0.18,
+            filter: "sepia(1) brightness(0.6) contrast(1.4) saturate(0.8)",
+            mixBlendMode: "multiply",
+          }}
         />
       </motion.div>
 
