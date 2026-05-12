@@ -19,8 +19,8 @@ export default function Hero() {
         className="absolute inset-0 w-full h-full"
       >
         <img
-          src="https://cdn.poehali.dev/projects/741a384e-7334-4a38-b0e5-a037d7365f18/files/aabcef2f-5148-44dd-82ab-4b3a6c0c37c1.jpg"
-          alt="Топографическая карта Кольского полуострова"
+          src="https://cdn.poehali.dev/projects/741a384e-7334-4a38-b0e5-a037d7365f18/files/b5a13315-db1f-4833-a497-e576485e1352.jpg"
+          alt="Карта Кольского полуострова крупным планом"
           className="w-full h-full object-cover"
         />
       </motion.div>
