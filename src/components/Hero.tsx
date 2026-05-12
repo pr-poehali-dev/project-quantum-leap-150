@@ -22,8 +22,7 @@ export default function Hero() {
         <img
           src="https://cdn.poehali.dev/projects/741a384e-7334-4a38-b0e5-a037d7365f18/bucket/3d8e497a-a706-4c2f-96af-fbdfd1fc6ace.png"
           alt="Карта Кольского полуострова"
-          className="w-[60%] h-[60%] object-contain"
-          style={{ filter: "blur(1.5px) drop-shadow(0 4px 24px rgba(0,0,0,0.18))", borderRadius: "40%" }}
+          className="w-full h-full object-contain opacity-20"
         />
       </motion.div>
 
